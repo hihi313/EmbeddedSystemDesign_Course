@@ -4,9 +4,12 @@ Labs during theembedded system design course
 # Normal class
 
 ## Lab1
+
+UART/LCD
+
 ## Lab2
 
-Not finished.
+*二退*
 
 # Laboratory class
 
