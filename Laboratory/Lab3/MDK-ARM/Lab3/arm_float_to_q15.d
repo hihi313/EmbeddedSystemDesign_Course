@@ -1,9 +1,0 @@
-lab3\arm_float_to_q15.o: ../Drivers/CMSIS/DSP/Source/SupportFunctions/arm_float_to_q15.c
-lab3\arm_float_to_q15.o: ../Drivers/CMSIS/DSP/Source/MatrixFunctions/arm_math.h
-lab3\arm_float_to_q15.o: ../Drivers/CMSIS/Include/core_cm7.h
-lab3\arm_float_to_q15.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-lab3\arm_float_to_q15.o: ../Drivers/CMSIS/Include/cmsis_version.h
-lab3\arm_float_to_q15.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
-lab3\arm_float_to_q15.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
-lab3\arm_float_to_q15.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-lab3\arm_float_to_q15.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
